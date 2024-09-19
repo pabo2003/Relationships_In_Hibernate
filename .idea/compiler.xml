@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HQL" />
+        <module name="Many_to_Many_mapping" />
+        <module name="Eager_Frtching" />
+        <module name="One_to_One_Mapping" />
+        <module name="Lasy_Fetching" />
+        <module name="One_to_Many_Mapping" />
+        <module name="SQL" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
